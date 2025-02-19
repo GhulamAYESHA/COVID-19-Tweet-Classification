@@ -1,6 +1,9 @@
 # COVID-19-Tweet-Classification
 This project applies machine learning techniques to classify COVID-19-related tweets into relevant categories such as Symptoms, Medical Advice, Government Policies, and Personal Experiences. By analyzing social media discussions, Models such as Naïve Bayes, Logistic Regression, LSTMs, and CNNs were implemented and evaluated for performance.
 
+Access Notebook here: https://nbviewer.org/github/GhulamAYESHA/COVID-19-Tweet-Classification/blob/main/covid%2019%20tweet%20classification.ipynb
+
+
 # 1. Introduction
 
 Social media, especially Twitter, played a significant role during the COVID-19 pandemic, providing critical information and connecting people. However, it also became a source of misinformation. This project focuses on using machine learning models to classify COVID-19 tweets into relevant categories, enabling real-time monitoring and response to public discussions.
